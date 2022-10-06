@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="next">NEXT_ACTIVITY</string>
+    <string name="boat_sound">Sound of boat</string>
+    <string name="boat_starting">Boat`s engine starting</string>
+    <string name="car_sound">Sound of car</string>
+    <string name="car_starting">Car`s engine starting</string>
+    <string name="plane_sound">Sound of plane</string>
+    <string name="plane_starting">Plane`s engine starting</string>
+</resources>
