@@ -1,4 +1,4 @@
-package com.example.example.animal
+package com.example.example.vehicle
 
 import android.util.Log
 

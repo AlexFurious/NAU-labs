@@ -1,4 +1,4 @@
-package com.example.example.animal
+package com.example.example.vehicle
 
 interface InterfaceVehicle {
     fun sound(name: String)

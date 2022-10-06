@@ -1,8 +1,8 @@
-package com.example.example.animal
+package com.example.example.vehicle
 
 import android.util.Log
 
-class Car: Vehicle(vehicleOld = 3) {
+class Boat : Vehicle(vehicleOld = 5) {
     override fun sound(name: String) {
         Log.d(name, "sound")
         super.sound(name)

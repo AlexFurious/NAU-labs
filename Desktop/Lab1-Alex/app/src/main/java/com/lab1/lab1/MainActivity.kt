@@ -3,9 +3,9 @@ package com.example.example
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.example.example.animal.Boat
-import com.example.example.animal.Car
-import com.example.example.animal.Plane
+import com.example.example.vehicle.Boat
+import com.example.example.vehicle.Car
+import com.example.example.vehicle.Plane
 
 class MainActivity : AppCompatActivity() {
 
