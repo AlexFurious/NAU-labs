@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="print_first_value">Print first value</string>
+    <string name="print_second_value">Print second value</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="multiplication">multiplication</string>
+    <string name="division">division</string>
+    <string name="result">Result</string>
+    <string name="number">number</string>
+    <string name="perehod">perehod</string>
+    <string name="delete">delete</string>
+</resources>
